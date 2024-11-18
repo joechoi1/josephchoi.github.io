@@ -25,8 +25,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("https://www.linkedin.com/in/josephchoi2025/", '#'),
-    ("Another social link", "#"),
+    
+    ("https://www.linkedin.com/in/josephchoi2025/", "#"),
 )
 
 DEFAULT_PAGINATION = 10
