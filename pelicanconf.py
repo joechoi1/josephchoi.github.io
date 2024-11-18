@@ -25,7 +25,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
+    ("https://www.linkedin.com/in/josephchoi2025/", "LinkedIn"),
     ("Another social link", "#"),
 )
 
