@@ -25,7 +25,6 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    
     ("https://www.linkedin.com/in/josephchoi2025/", "LinkedIn"),
 )
 
